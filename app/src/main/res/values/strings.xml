@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemplosLayouts</string>
+    <string name="defecto_cargo">Estudiante</string>
+    <string name="defecto_estadoCivil">Viud@</string>
+</resources>
